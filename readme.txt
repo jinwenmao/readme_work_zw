@@ -1,3 +1,2 @@
-C:\Users\hope2\.ssh  id_rsa and id_rsa.pub 
-https://github.com/jinwenmao/test_print_setup  ²âÊÔ´òÓ¡»úµÄÉèÖÃ
-https://github.com/jinwenmao/test_printer_api.git    ²âÊÔ´òÓ¡»úµÄapi ²ÎÊıÉèÖÃ
+VimCrypt~01!Æ5ŠãÄÕbÁ%”gBµÓdŒHC[ÿê+Øt	ì-îŸp8/MÌø`à¼5âŞ¥LÉ=Y¨ñÊcs––$=™ÁıìJPÖ &/ÌÍ’ˆ%ûä6$ƒ”õG?é„²®ŞINú¡²]sa–í6£bš1ÄıŒb
+g›f™”½ şV¯ÂqUŞá°Z\Å&(4Ï6•ã3œ2¹ªø‚TšËº?ÜJ\y‹~¡”¤NßÏ”?``êË¡MêÍÆyTR›%XÓÇV¸ÇTSe£òoşa'€Mp¬±sŞê³j£Éƒôn[™µ‡‹†ºËá‡ÿó–è´
